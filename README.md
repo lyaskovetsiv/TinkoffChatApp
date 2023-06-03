@@ -1,3 +1,5 @@
+[![CI](https://github.com/TFS-iOS/chat-app-lyaskovetsiv/actions/workflows/.github.yml/badge.svg?branch=dz-cicd)](https://github.com/TFS-iOS/chat-app-lyaskovetsiv/actions/workflows/.github.yml)
+
 **APP**: Messenger
 
 **Description**: An application for communication between users
@@ -17,4 +19,4 @@
 - Configured work with FastLine, added several configuration files, configured the build in GitHub Actions
 - Sent a notification to the discord channel at the end of the project build on the CI server
 
-[![CI](https://github.com/TFS-iOS/chat-app-lyaskovetsiv/actions/workflows/.github.yml/badge.svg?branch=dz-cicd)](https://github.com/TFS-iOS/chat-app-lyaskovetsiv/actions/workflows/.github.yml)
+
