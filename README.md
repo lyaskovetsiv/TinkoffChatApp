@@ -4,6 +4,8 @@
 
 **Description**: An application for communication between users
 
+**Tech Stack**: UIKit, Filemanager, CoreData, UserDefaults, Keychain,  URLSession, Figma, Combine, SOA, MVP+Coordinator, UnitTests, UITests, TestPlans, SwiftLint, GCD, SSE, CICD, Fastlane, CoreAnimation
+
 **What was done**:
 
 - I made up the application layout with the code from Figma, used UIAppearance to create internal themes
