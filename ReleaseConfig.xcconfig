@@ -1,0 +1,12 @@
+//
+//  ReleaseConfig.xcconfig
+//  TinkoffChatApp
+//
+//  Created by Ivan Lyaskovets on 15.05.2023.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "Pods/Target Support Files/Pods-TinkoffChatApp/Pods-TinkoffChatApp.release.xcconfig"
+#include? "Pixabay.xcconfig"

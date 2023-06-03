@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "E3808A50-6C5F-4B36-8598-545BCEA25944",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:TinkoffChatApp.xcodeproj",
+      "identifier" : "04506DE1299F7B1800AD9F32",
+      "name" : "TinkoffChatApp"
+    },
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:TinkoffChatApp.xcodeproj",
+        "identifier" : "04D6F3E92A052AA300F51D53",
+        "name" : "TinkoffChatAppUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

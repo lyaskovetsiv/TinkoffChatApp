@@ -1,0 +1,24 @@
+name: CI
+on: [push]
+jobs:
+  build:
+    runs-on: [self-hosted]
+    
+    steps:
+
+    - uses: actions/checkout@v3
+
+    - uses: ruby/setup-ruby@v1
+      with:   
+        ruby-version: '3.1'
+        bundler-cache: true
+
+    - name: Build and run tests
+      env: 
+        SECRETS_URL: ${ { secrets.SECRETS_URL} }
+      run: bundle exec fastlane custom_build_and_test
+
+    - uses: sarisia/actions-status-discord@v1
+      if: always()
+      with:
+        webhook: ${{ secrets.DISCORD }}
