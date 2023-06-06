@@ -21,8 +21,19 @@
 - Configured work with FastLine, added several configuration files, configured the build in GitHub Actions
 - Sent a notification to the discord channel at the end of the project build on the CI server
 
-| <img width="303" alt="Снимок экрана 2023-06-06 в 16 29 23" src="https://github.com/lyaskovetsiv/TinkoffChatApp/assets/100786077/3dbfd511-135f-4056-b14a-9102daa8900a">  | <img width="301" alt="Снимок экрана 2023-06-06 в 16 30 43" src="https://github.com/lyaskovetsiv/TinkoffChatApp/assets/100786077/5cc551de-0a04-4529-91e6-b992655b770e"> | <img width="414" alt="Снимок экрана 2023-06-06 в 16 34 04" src="https://github.com/lyaskovetsiv/TinkoffChatApp/assets/100786077/c870feb9-a1d2-4531-a360-26f1a223e41d">  | <img width="414" alt="Снимок экрана 2023-06-06 в 16 34 24" src="https://github.com/lyaskovetsiv/TinkoffChatApp/assets/100786077/f5ee66b3-e715-4686-9667-a4d71892f98c">  |
-| ------------- | ------------- | ------------- | ------------- |
+
+**ChatList&Chat screens**:
+| <img width="416" alt="Снимок экрана 2023-06-06 в 16 43 10" src="https://github.com/lyaskovetsiv/TinkoffChatApp/assets/100786077/c3248ff3-a54f-40b4-9f4d-f41661141aaf">  | <img width="411" alt="Снимок экрана 2023-06-06 в 16 43 32" src="https://github.com/lyaskovetsiv/TinkoffChatApp/assets/100786077/caf3b89f-b74a-44e9-a40f-cfb2b1c82633"> | 
+| ------------- | ------------- | 
+
+**Profile&EditProfile screenss**:
+
+| <img width="414" alt="Снимок экрана 2023-06-06 в 16 34 04" src="https://github.com/lyaskovetsiv/TinkoffChatApp/assets/100786077/6ef8d84b-21e1-4162-a295-c538cccee3d5">  | <img width="414" alt="Снимок экрана 2023-06-06 в 16 34 24" src="https://github.com/lyaskovetsiv/TinkoffChatApp/assets/100786077/db11fb2f-3e39-4334-8c35-6b676887baa0"> | 
+| ------------- | ------------- | 
+
+
+
+
 
 
 
